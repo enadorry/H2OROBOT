@@ -19,5 +19,15 @@ MIT License
 <br>次にAndroidで使えるようにapkにビルドしてください
 <br>https://shibuya24.info/entry/unity-build-android
 <br>こちらのサイトを参考にしてビルド作業を行ってください。りんごはしりません
+<br><strong>ビルドする際は 編集→プレイヤー→解像度と表示→自動回転が可能の向きの 縦向きと縦向き（逆）のチェックマークを外してください!</strong>
+<br>後は手順に従ってビルド作業を進めたらできると思います
+
+# 使用方法
+
+アプリを開く前に、ESP32Devから出てるWi-FIに接続して下さい
+<br><strong>アプリを開いてから接続作業を行っても、反応しません</strong>
+<br>初期状態だと、SSIDはEnadorry.2009です　パスワードはenadorryです
+<br><br>ESPへのkibann.inoの書き込み方法については省略させていただきます<br>調べてもらえれば幸いです
+
 # 連絡先
 <li>Discord:@enadorry.2009
