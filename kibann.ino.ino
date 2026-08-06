@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
-const char *ssid = "soufuTitanic";
-const char *password = "12345678";
+const char *ssid = "ここに任意のssid";
+const char *password = "ここに8桁以上のパスワード";
 WiFiUDP udp;
 char controller;
 char hexadecimal[] = {'1','2'};
