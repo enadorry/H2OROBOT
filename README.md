@@ -26,7 +26,7 @@ MIT License
 
 アプリを開く前に、ESP32Devから出てるWi-FIに接続して下さい
 <br><strong>アプリを開いてから接続作業を行っても、反応しません</strong>
-<br>初期状態だと、SSIDはEnadorry.2009です　パスワードはenadorryです
+<br>SSIDとパスワードは各自設定して書き込んでください。
 <br><br>ESPへのkibann.inoの書き込み方法については省略させていただきます<br>調べてもらえれば幸いです
 
 # 連絡先
