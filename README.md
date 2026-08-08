@@ -1,11 +1,13 @@
 # H2OROBOT
 H2O ROBOT Program &amp; source code
+<br>README 最終更新日 2026/8/8
 <br>OSS
 <br>MIT License
 <br>水中ロボットをスマホで簡単に操作できるようなアプリです。
 <br>スマホからESP32などにWi-Fi(UDP)で送信し操作でき、コントローラーで操作できます。
 <br>確認できる範囲では、Android13以上で動作します。
-<br>DualSenseなどのコントローラーをスマホに接続すればスティックや十字キーで操作可能です
+<br>水中ロボで配布されたESP32Devで動作します
+<br>DualSenseなどのコントローラーをスマホに接続すればスティックや十字キーで操作可能です。
 # 使用前の注意
 こちらのコードは基本転載もプログラムの変更も好きにやってもらって構いませんが、以下のルールを順守してください。
 <br><li>戦争や人に危害をもたらすようなことに使用を禁止。
@@ -14,6 +16,7 @@ H2O ROBOT Program &amp; source code
 <br><li>その他、ご不明な点があれば連絡お願いします。
 
 # ビルド方法
+<br>UnityのパッケージはH20_ROBOT.unitypackage で Arduinoのプログラムは kibann.ino.inoです(名前訂正せねば)
 <br>※iPhoneとMac使用者はぐぐってください
 <br>Androidでのapk作成方法
 <br>Unityのバージョンは6000.3.7f1を使用することを推奨します
@@ -44,4 +47,9 @@ H2O ROBOT Program &amp; source code
 <br><br>written&made by enadorry.2009
 <br><br>Thank you for "H2O" teammember,
 <br>And All App user.
-<br><br>2026/8/8 更新
+
+# トラブルシューティング
+動きません
+<br>⇒まずはしっかりスマホとESPがWi-Fiで接続できてるかを確認してください。
+<br>もし接続していても動作しない場合は、モバイル通信をOFFにしてください。192.168.11.1が外の世界の方へデータを送ろうとしているためです。
+
