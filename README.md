@@ -2,8 +2,6 @@
 H2O ROBOT Program &amp; source code
 <br>OSS
 <br>MIT License
-<br>Thank you for teammember,
-<br>And App user.
 # 使用前の注意
 こちらのコードは基本転載もプログラムの変更も好きにやってもらって構いませんが、以下のルールを順守してください。
 <br><li>戦争や人に危害をもたらすようなことに使用を禁止。
@@ -35,7 +33,10 @@ H2O ROBOT Program &amp; source code
 <li>Discord:@enadorry.2009</li>
 
 # 追記
-<br>iPhoneへのビルド方法についてはめっちゃ雑に放り投げました。
+<br>iPhoneへのビルド方法についてはめっちゃ雑に放り投げました。本当に申し訳ございません。
 <br>iPhoneは日本では使用率が高いものなので、私が怠惰にならなければ後日ちゃんとアプリ作ります。
 <br>引退?みたいな感じですが、プログラムの改善等は今後とも尽力していきますし、アドバイスや改善などあれば連絡等していただければ、期待に応える限り改善していこうと思います。
-<br>
+<br>最後にですが、このソフトウェアを使用してくださり本当にうれしい限りです。
+<br>written&made by enadorry.2009
+<br><br>Thank you for teammember,
+<br>And App user.
