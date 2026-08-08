@@ -39,4 +39,4 @@ H2O ROBOT Program &amp; source code
 <br>最後にですが、このソフトウェアを使用してくださり本当にうれしい限りです。
 <br>written&made by enadorry.2009
 <br><br>Thank you for teammember,
-<br>And App user.
+<br>And All App user.
