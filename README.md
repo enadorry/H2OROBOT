@@ -1,7 +1,9 @@
 # H2OROBOT
 H2O ROBOT Program &amp; source code
-OSS
-MIT License
+<br>OSS
+<br>MIT License
+<br>Thank you for teammember,
+<br>And App user.
 # 使用前の注意
 こちらのコードは基本転載もプログラムの変更も好きにやってもらって構いませんが、以下のルールを順守してください。
 <br><li>戦争や人に危害をもたらすようなことに使用を禁止。
@@ -30,4 +32,11 @@ MIT License
 <br><br>ESPへのkibann.inoの書き込み方法については省略させていただきます<br>調べてもらえれば幸いです
 
 # 連絡先
-<li>Discord:@enadorry.2009
+<li>Discord:@enadorry.2009</li>
+
+# 追記
+<br>iPhoneへのビルド方法についてはめっちゃ雑に放り投げました。
+<br>iPhoneは日本では使用率が高いものなので、私が怠惰にならなければ後日ちゃんとアプリ作ります。
+<br>岩国の水中ロボはjr部門ではおそらく最後の参加でした。総合優勝できてよかったです。
+<br>引退?みたいな感じですが、プログラムの改善等は今後とも尽力していきますし、アドバイスや改善などあれば連絡等していただければ、期待に応える限り改善していこうと思います。
+<br>
