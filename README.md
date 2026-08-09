@@ -1,3 +1,5 @@
+# ダウンロード
+[最新版APKはこちら](https://github.com/enadorry/H2OROBOT/releases/latest)
 # H2OROBOT
 H2O ROBOT Program &amp; source code
 <br>README 最終更新日 2026/8/8
@@ -14,9 +16,6 @@ H2O ROBOT Program &amp; source code
 <br><li>改造などをして再配布する際は、@Enadorry.2009やhttps://twitter.com/scarlet_shuu などのハンドルネームや連絡先をどこかに貼ってくれれば幸いです。<br>あと再配布した際は連絡くださると助かります。個人的にじろじろ見てみたいので。
 <br><li>商用的な利用はTwitterやDiscordなどで連絡お願いします。
 <br><li>その他、ご不明な点があれば連絡お願いします。
-
-# ダウンロード
-[最新版APKはこちら](https://github.com/enadorry/H2OROBOT/releases/latest)
 
 # ビルド方法
 <br>UnityのパッケージはH20_ROBOT.unitypackage で Arduinoのプログラムは kibann.ino.inoです(名前訂正せねば)
