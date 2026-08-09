@@ -43,7 +43,7 @@ H2O ROBOT Program &amp; source code
 <br><br>ESPへのkibann.inoの書き込み方法については省略させていただきます<br>調べてもらえれば幸いです
 
 # 連絡先
-<li>Discord:@enadorry.2009<>br>Twitter:scarlet_shuu</li>
+<li>Discord:@enadorry.2009<br>Twitter:scarlet_shuu</li>
 
 # トラブルシューティング
 ・動きません
