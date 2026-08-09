@@ -15,6 +15,9 @@ H2O ROBOT Program &amp; source code
 <br><li>商用的な利用はTwitterやDiscordなどで連絡お願いします。
 <br><li>その他、ご不明な点があれば連絡お願いします。
 
+# ダウンロード
+[最新版APKはこちら](https://github.com/enadorry/H2OROBOT/releases/latest)
+
 # ビルド方法
 <br>UnityのパッケージはH20_ROBOT.unitypackage で Arduinoのプログラムは kibann.ino.inoです(名前訂正せねば)
 <br>※iPhoneとMac使用者はぐぐってください
