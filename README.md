@@ -65,5 +65,5 @@ H2O ROBOT Program &amp; source code
 <br>引退?みたいな感じですが、プログラムの改善等は今後とも尽力していきますし、アドバイスや改善などあれば連絡等していただければ、期待に応える限り改善していこうと思います。
 <br>最後にですが、このソフトウェアを使用してくださり本当にうれしい限りです。
 <br><br>written&made by enadorry.2009
-<br><br>Thank you for "H2O" teammember,
-<br>And All App user.
+<br><br>*Thank you for "H2O" teammember,
+<br>And All App user.*
